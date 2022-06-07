@@ -31,7 +31,7 @@
   width: 100px;
   height: 84px;
   position: relative;
-  left: -60rem;
+  left: -53rem;
   top: 0.5rem;
 }
 
@@ -83,8 +83,8 @@
 
 .list {
   position: absolute;
-  top: 22rem;
-  left: 73rem;
+  top: 20rem;
+  left: 68rem;
   font-weight: bold;
 }
 
@@ -105,12 +105,14 @@
 .colors {
   width: 100%;
   height: 89vh;
+
 }
 
 .colors img {
   margin: 10px;
-  width: 400px;
-  height: 345px;
+  width: 359px;
+  height: 308px;
+
 }
 
 .features .wrapper {
